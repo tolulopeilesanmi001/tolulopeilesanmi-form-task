@@ -1,0 +1,129 @@
+body{
+    background-color: #062863;
+    color: #ffffff;
+   
+}
+.logopig{
+    width: 300px;
+    margin: 0 auto;
+
+}
+.logo{
+    margin: 0 auto;
+    align-content: center;
+    padding:48px;
+    height: auto;
+    cursor: pointer;
+    
+   }
+
+.formcontainer{
+    background-color: #ffffff;
+    width: 480px;
+    margin: 0 auto;
+    border-radius: 20px 20px 20px 0px;
+    padding: 30px 12px;
+}
+.headertext{
+    font-size: 1.36em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#083e9e;
+    text-align: center;
+    margin-bottom: 0px;
+}
+p{
+    color:#4a5568;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4px;
+    font-size: 12px;
+    font-weight: 100;
+    letter-spacing: 1.3px;
+
+}
+.form{
+    margin: 0 auto;
+    width: 400px;
+    background-color: #ffffff;
+    padding: 20px;
+    color:#1f1f1f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    
+   
+}
+label{
+    padding-top: 10px;
+    margin-top: 600px;
+}
+input{
+    height: 38px;
+    width: 380px;
+    margin-bottom: 28px;
+    margin-top: 10px;
+    padding: 10px 8px 10px 12px ;
+    font-size: 16px;
+    border-radius: .30rem;
+    background-color: #edf2f7;
+    border: 0px solid #e2e8f0;
+    color: #4a5568
+   
+    
+  
+}
+#platforms{
+    height: 57px;
+    width: 400px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding: 10px 8px 10px 12px ;
+    font-size: 16px;
+    border-radius: .23rem;
+    background-color: #edf2f7;
+    border: 0px solid #e2e8f0;
+    color: #4a5568;
+    overflow: auto;
+}
+option{
+    overflow: scroll;
+    font-size: 18px;
+}
+#submitbtn{
+    padding: 20px 10px 20px 10px;
+    margin: 0px auto;
+    color: #ffffff;
+    background-color:#083e9e;
+    border-radius: 10px 10px 10px 0px;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px solid;
+    cursor: pointer;
+
+}
+#submitbtn:hover{
+    background-color: #062e72;
+}
+.loginlink{
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+
+}
+.login{
+    margin: 0 auto;
+    width: 200px;
+    padding: 40px;
+    font-size: 13px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.loginlink:hover{
+    color: #478aff
+}
